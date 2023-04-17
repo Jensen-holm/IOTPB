@@ -1,0 +1,3 @@
+[submodule "bsbl-api"]
+	path = bsbl-api
+	url = git@github.com:Jensen-holm/bsbl-api.git
