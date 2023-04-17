@@ -1,3 +1,6 @@
-[submodule "bsbl-api"]
-	path = bsbl-api
-	url = git@github.com:Jensen-holm/bsbl-api.git
+[submodule "bsbl-updater"]
+	path = bsbl-updater
+	url = git@github.com:Jensen-holm/bsbl-updater.git
+[submodule "bsbl-fetcher"]
+	path = bsbl-fetcher
+	url = git@github.com:Jensen-holm/bsbl-fetcher.git
