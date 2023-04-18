@@ -22,7 +22,7 @@ simply run: <br>
 
 `./get_mongo_url.sh` <br>
 
-you can now connect to mongo db with a driver using that url. <br>
+you can now connect to mongo db with a driver using that url <br>
 When done, run: <br>
 
 `brew services stop mongodb-community` <br>
