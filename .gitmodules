@@ -4,3 +4,6 @@
 [submodule "bsbl-fetcher"]
 	path = bsbl-fetcher
 	url = git@github.com:Jensen-holm/bsbl-fetcher.git
+[submodule "IOTPB-db-init"]
+	path = IOTPB-db-init
+	url = git@github.com:Jensen-holm/IOTPB-db-init.git
