@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import MenuButton from '@/components/MenuButton';
-import { Center } from '@mantine/core';
+import Griffey from '@/components/Griffey';
 
 export default function Home() {
   return (
@@ -13,10 +13,12 @@ export default function Home() {
       </Head>
 
       <div className="space-y-2">
-
         <MenuButton text={"Login"}></MenuButton>
         <MenuButton text={"Sign Up"}></MenuButton>
+      </div>
 
+      <div>
+        <Griffey />
       </div>
 
     </>
